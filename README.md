@@ -1,2 +1,3 @@
-# Highly-Available-Static-Website-Hosting
-AWS Cloud Project: 
+# AWS CLOUD PROJECT:
+Secure & Scalable Static Website      
+
