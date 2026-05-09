@@ -35,8 +35,8 @@ Security: AWS Certificate Manager (ACM) for HTTPS/SSL encryption and S3 Bucket P
 • Create CloudFront distributions to secure the website in HTTPS.
 
 # Tools & Technologies Used: 
-• Amazon S3 – Static website hosting and storage. 
-• Amazon Route 53 – DNS management and domain integration. 
+•  Amazon S3 – Static website hosting and storage. 
+•  Amazon Route 53 – DNS management and domain integration. 
 • AWS Certificate Manager (ACM) – SSL/TLS certificate generation. 
 • Amazon CloudFront – Content delivery network (CDN) for global distribution.
 
