@@ -20,13 +20,13 @@ performance optimization.
 ---
 
 ### Architecture Components
-Storage: Amazon S3 (Simple Storage Service) used for hosting the website’s static assets (HTML, CSS, JS).
+* **Storage:** Amazon S3 (Simple Storage Service) used for hosting the website’s static assets (HTML, CSS, JS).
 
-Content Delivery: Amazon CloudFront (CDN) configured to cache content at edge locations worldwide to reduce latency.
+* **Content Delivery:** Amazon CloudFront (CDN) configured to cache content at edge locations worldwide to reduce latency.
 
-DNS Management: Amazon Route 53 utilized for domain registration and routing traffic to the CloudFront distribution.
+* **DNS Management:** Amazon Route 53 utilized for domain registration and routing traffic to the CloudFront distribution.
 
-Security: AWS Certificate Manager (ACM) for HTTPS/SSL encryption and S3 Bucket Policies for controlled access.
+* **Security:**  AWS Certificate Manager (ACM) for HTTPS/SSL encryption and S3 Bucket Policies for controlled access.
 
 ---
 
