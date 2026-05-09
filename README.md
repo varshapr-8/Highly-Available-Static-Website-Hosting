@@ -29,33 +29,33 @@ Security: AWS Certificate Manager (ACM) for HTTPS/SSL encryption and S3 Bucket P
 # The project demonstrates: 
 * Import a domain name on AWS 
 * Create a hosted zone and manage its DNS records; 
-• Create S3 Buckets to host website pages; 
-• Configure Route 53 to link the domain name to the website; 
-• Create an SSL certificate for the website using AWS Certificate Manager (ACM); 
-• Create CloudFront distributions to secure the website in HTTPS.
+* Create S3 Buckets to host website pages; 
+* Configure Route 53 to link the domain name to the website; 
+* Create an SSL certificate for the website using AWS Certificate Manager (ACM); 
+* Create CloudFront distributions to secure the website in HTTPS.
 
 # Tools & Technologies Used: 
-•  Amazon S3 – Static website hosting and storage. 
-•  Amazon Route 53 – DNS management and domain integration. 
-• AWS Certificate Manager (ACM) – SSL/TLS certificate generation. 
-• Amazon CloudFront – Content delivery network (CDN) for global distribution.
+*  Amazon S3 – Static website hosting and storage. 
+*  Amazon Route 53 – DNS management and domain integration. 
+* AWS Certificate Manager (ACM) – SSL/TLS certificate generation. 
+* Amazon CloudFront – Content delivery network (CDN) for global distribution.
 
 Technical Documentation (PDF)
 For a detailed walkthrough, including screenshots of the AWS Console, step-by-step configurations, and troubleshooting logs, please refer to the full report:
 
 [👉 Click here to view the full Project Documentation (PDF)](AWS_StaticWebsite_Project.pdf)
 # Outcome 
-• Successfully deployed a secure, globally accessible static website using AWS 
+* Successfully deployed a secure, globally accessible static website using AWS 
 services. 
-• The website is hosted on Amazon S3 with a custom domain 
+* The website is hosted on Amazon S3 with a custom domain 
 (varshacloud.online). 
-• Route 53 DNS records correctly link the domain to the hosting bucket. 
-• SSL/TLS certificate from AWS Certificate Manager ensures encrypted HTTPS 
+* Route 53 DNS records correctly link the domain to the hosting bucket. 
+* SSL/TLS certificate from AWS Certificate Manager ensures encrypted HTTPS 
 communication. 
-• CloudFront distribution delivers content with low latency and optimized 
+* CloudFront distribution delivers content with low latency and optimized 
 performance worldwide. 
-• Demonstrated practical skills in: 
-o Cloud infrastructure setup (S3, Route 53, CloudFront, ACM). 
+* Demonstrated practical skills in: 
+** Cloud infrastructure setup (S3, Route 53, CloudFront, ACM). 
 o Domain integration and DNS management. 
 o Security implementation with SSL/TLS. 
 o Performance optimization using CDN caching.
