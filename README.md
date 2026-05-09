@@ -53,16 +53,11 @@ For a detailed walkthrough, including screenshots of the AWS Console, step-by-st
 
 ---
 
-### Key Performance & Security Milestones
-* Successfully deployed a secure, globally accessible static website using AWS 
-services. 
-* The website is hosted on Amazon S3 with a custom domain 
-(varshacloud.online). 
-* Route 53 DNS records correctly link the domain to the hosting bucket. 
-* SSL/TLS certificate from AWS Certificate Manager ensures encrypted HTTPS 
-communication. 
-* CloudFront distribution delivers content with low latency and optimized 
-performance worldwide.
+###  Key Performance & Security Milestones
+* **Infrastucture Ready:** Successfully architected a secure, globally accessible static website framework.
+* **Domain Configuration:** Verified Route 53 DNS logic for custom domain integration (**varshacloud.online**).
+* **Security Validation:** Confirmed SSL/TLS certificate handshake via ACM for encrypted HTTPS communication.
+* **Global Edge Logic:** Configured CloudFront distribution for sub-second latency via global Edge Locations.
 
 ---
 
