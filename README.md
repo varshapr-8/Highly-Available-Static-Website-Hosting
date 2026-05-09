@@ -43,7 +43,7 @@ Security: AWS Certificate Manager (ACM) for HTTPS/SSL encryption and S3 Bucket P
 Technical Documentation (PDF)
 For a detailed walkthrough, including screenshots of the AWS Console, step-by-step configurations, and troubleshooting logs, please refer to the full report:
 
-[👉 Click here to view the full Project Documentation (PDF)](Your_Actual_File_Name.pdf)
+[👉 Click here to view the full Project Documentation (PDF)](AWS_StaticWebsite_Project.pdf)
 # Outcome 
 • Successfully deployed a secure, globally accessible static website using AWS 
 services. 
