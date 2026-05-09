@@ -1,8 +1,4 @@
-<center>
-
-  # SECURE & SCALABALE STATIC WEBSITE HOSTING ON AWS 
-
-<center/>
+<h1 align="center">SECURE & SCALABLE STATIC WEBSITE HOSTING ON AWS</h1>
 
 ### Solution Architecture & Strategic Design:   
 In today’s digital landscape, businesses and individuals require reliable, 
