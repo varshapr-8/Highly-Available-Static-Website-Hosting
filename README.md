@@ -38,6 +38,8 @@ Security: AWS Certificate Manager (ACM) for HTTPS/SSL encryption and S3 Bucket P
 * Create an SSL certificate for the website using AWS Certificate Manager (ACM); 
 * Create CloudFront distributions to secure the website in HTTPS.
 
+---
+
 ### Technology Ecosystem: 
 *  Amazon S3 – Static website hosting and storage. 
 *  Amazon Route 53 – DNS management and domain integration. 
@@ -49,6 +51,8 @@ For a detailed walkthrough, including screenshots of the AWS Console, step-by-st
 
 [👉 Click here to view the full Project Documentation (PDF)](AWS_StaticWebsite_Project.pdf)
 
+---
+
 ### Key Performance & Security Milestones
 * Successfully deployed a secure, globally accessible static website using AWS 
 services. 
@@ -59,6 +63,8 @@ services.
 communication. 
 * CloudFront distribution delivers content with low latency and optimized 
 performance worldwide.
+
+---
 
 ### Demonstrated practical skills in:
 *  Cloud infrastructure setup (S3, Route 53, CloudFront, ACM). 
