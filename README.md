@@ -1,6 +1,7 @@
-# AWS CLOUD PROJECT:
-Secure & Scalable Static Website      
-Instructions: In today’s digital landscape, businesses and individuals require reliable, 
+# SECURE & SCALABALE STATIC WEBSITE HOSTING ON AWS   
+
+**Project overview:  **  
+     In today’s digital landscape, businesses and individuals require reliable, 
 secure, and globally accessible web platforms to establish their online presence. 
 Traditional hosting solutions often involve complex infrastructure management and 
 higher costs, making them less efficient for static websites. 
