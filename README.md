@@ -1,4 +1,7 @@
-  # SECURE & SCALABALE STATIC WEBSITE HOSTING ON AWS   
+<center>
+
+  # SECURE & SCALABALE STATIC WEBSITE HOSTING ON AWS 
+  <center/>
 
 ### Solution Architecture & Strategic Design:   
 In today’s digital landscape, businesses and individuals require reliable, 
@@ -26,7 +29,7 @@ DNS Management: Amazon Route 53 utilized for domain registration and routing tra
 
 Security: AWS Certificate Manager (ACM) for HTTPS/SSL encryption and S3 Bucket Policies for controlled access.
 
-### The project demonstrates: 
+### Technical Implementation Workflow: 
 * Import a domain name on AWS 
 * Create a hosted zone and manage its DNS records; 
 * Create S3 Buckets to host website pages; 
@@ -34,7 +37,7 @@ Security: AWS Certificate Manager (ACM) for HTTPS/SSL encryption and S3 Bucket P
 * Create an SSL certificate for the website using AWS Certificate Manager (ACM); 
 * Create CloudFront distributions to secure the website in HTTPS.
 
-### Tools & Technologies Used: 
+### Technology Ecosystem: 
 *  Amazon S3 – Static website hosting and storage. 
 *  Amazon Route 53 – DNS management and domain integration. 
 * AWS Certificate Manager (ACM) – SSL/TLS certificate generation. 
@@ -44,7 +47,8 @@ Technical Documentation (PDF)
 For a detailed walkthrough, including screenshots of the AWS Console, step-by-step configurations, and troubleshooting logs, please refer to the full report:
 
 [👉 Click here to view the full Project Documentation (PDF)](AWS_StaticWebsite_Project.pdf)
-### Outcome 
+
+### Key Performance & Security Milestones
 * Successfully deployed a secure, globally accessible static website using AWS 
 services. 
 * The website is hosted on Amazon S3 with a custom domain 
@@ -55,7 +59,7 @@ communication.
 * CloudFront distribution delivers content with low latency and optimized 
 performance worldwide.
 
-## Demonstrated practical skills in:
+### Demonstrated practical skills in:
 *  Cloud infrastructure setup (S3, Route 53, CloudFront, ACM). 
 * Domain integration and DNS management. 
 * Security implementation with SSL/TLS. 
