@@ -1,6 +1,6 @@
 # SECURE & SCALABALE STATIC WEBSITE HOSTING ON AWS   
 
-**Project overview:  **  
+# Project overview:   
      In today’s digital landscape, businesses and individuals require reliable, 
 secure, and globally accessible web platforms to establish their online presence. 
 Traditional hosting solutions often involve complex infrastructure management and 
@@ -16,3 +16,47 @@ ensures secure communication, compliance with modern standards, and optimized
 performance across regions. The result is a professional-grade static website that 
 demonstrates practical skills in cloud infrastructure setup, domain management, and 
 performance optimization.
+
+# Architecture Components
+Storage: Amazon S3 (Simple Storage Service) used for hosting the website’s static assets (HTML, CSS, JS).
+
+Content Delivery: Amazon CloudFront (CDN) configured to cache content at edge locations worldwide to reduce latency.
+
+DNS Management: Amazon Route 53 utilized for domain registration and routing traffic to the CloudFront distribution.
+
+Security: AWS Certificate Manager (ACM) for HTTPS/SSL encryption and S3 Bucket Policies for controlled access.
+
+# The project demonstrates: 
+• Import a domain name on AWS 
+• Create a hosted zone and manage its DNS records; 
+• Create S3 Buckets to host website pages; 
+• Configure Route 53 to link the domain name to the website; 
+• Create an SSL certificate for the website using AWS Certificate Manager (ACM); 
+• Create CloudFront distributions to secure the website in HTTPS.
+
+# Tools & Technologies Used: 
+• Amazon S3 – Static website hosting and storage. 
+• Amazon Route 53 – DNS management and domain integration. 
+• AWS Certificate Manager (ACM) – SSL/TLS certificate generation. 
+• Amazon CloudFront – Content delivery network (CDN) for global distribution.
+
+Technical Documentation (PDF)
+For a detailed walkthrough, including screenshots of the AWS Console, step-by-step configurations, and troubleshooting logs, please refer to the full report:
+
+👉 Download Project Documentation PDF (Note: Replace 'Your_File_Name.pdf' with the actual name of the file you upload to this repo)
+
+# Outcome 
+• Successfully deployed a secure, globally accessible static website using AWS 
+services. 
+• The website is hosted on Amazon S3 with a custom domain 
+(varshacloud.online). 
+• Route 53 DNS records correctly link the domain to the hosting bucket. 
+• SSL/TLS certificate from AWS Certificate Manager ensures encrypted HTTPS 
+communication. 
+• CloudFront distribution delivers content with low latency and optimized 
+performance worldwide. 
+• Demonstrated practical skills in: 
+o Cloud infrastructure setup (S3, Route 53, CloudFront, ACM). 
+o Domain integration and DNS management. 
+o Security implementation with SSL/TLS. 
+o Performance optimization using CDN caching.
