@@ -29,7 +29,7 @@ performance optimization.
 * **Security:**  AWS Certificate Manager (ACM) for HTTPS/SSL encryption and S3 Bucket Policies for controlled access.
 
 ---
-![EC2 Setup](https://github.com/username/repo/blob/main/ec2-project.png)
+![EC2 Setup](project architecture.png)
 
 ### Technical Implementation Workflow: 
 * Import a domain name on AWS 
